@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.bar {
+	width: px;
+}
+
 /* Basic */
 
 	html {
@@ -3392,7 +3396,7 @@ input, select, textarea {
 			line-height: inherit;
 			margin: 0;
 			position: absolute;
-			top: 0;
+			top: 1.25em;
 		}
 
 		#header nav {
